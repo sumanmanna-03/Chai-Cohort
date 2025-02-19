@@ -6,3 +6,4 @@
 ## Week-6
 
  - Prototype,Object,Prototype Chaining
+ - DOM (Document Object Model)
